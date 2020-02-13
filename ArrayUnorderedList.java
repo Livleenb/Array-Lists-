@@ -4,7 +4,7 @@ package proj4sp17;
  *
  * <p>Description: Represents an array implementation of an unordered list.</p>
  *
- * @author Dylan Messina, Livleen
+ * @author Livleen Bhullar
  */
 public class ArrayUnorderedList<E> extends ArrayList<E>
 implements UnorderedListADT<E>
